@@ -1,0 +1,297 @@
+[
+  {
+    "url": "https://aws.amazon.com",
+    "company_name": "Cloud Computing Services - Amazon Web Services (AWS)",
+    "website_url": "https://aws.amazon.com",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/company/amazon-web-services/",
+      "twitter": "https://twitter.com/awscloud",
+      "facebook": "https://www.facebook.com/amazonwebservices",
+      "instagram": "https://www.instagram.com/amazonwebservices/"
+    },
+    "address": "1 fans\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\n\n\n\n\n\n\n\n\nWatch the AWS Summit keynote livest",
+    "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+    "year_founded": 2006,
+    "industry": "Technology",
+    "services": [],
+    "tech_stack": {
+      "javascript": [
+        "javascript"
+      ],
+      "python": [
+        "python"
+      ],
+      "java": [
+        "java"
+      ],
+      "php": [
+        "php"
+      ],
+      "css": [
+        "less"
+      ],
+      "cloud": [
+        "aws"
+      ],
+      "frontend_frameworks": [
+        "react"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "leader",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://azure.microsoft.com",
+    "company_name": "Cloud Computing Services",
+    "website_url": "https://azure.microsoft.com",
+    "email": [],
+    "phone": [
+      "1800 832 352   9",
+      "1 877 678 8032",
+      "801 802 000   9",
+      "0800 222 9467    9",
+      "080 222 0880",
+      "800089761   9",
+      "(0)8 05 98 00 79   9",
+      "(0)800 523 121   9",
+      "1 809 453 214   9",
+      "800 8088014",
+      "855 270 0615",
+      "0120 54 2244   9",
+      "800 123 3353   9",
+      "(000) 8000 404 454   9",
+      "1800 1013659",
+      "305 418 9143   9",
+      "1800624449   8",
+      "080 222 0880   09",
+      "800 123 3353",
+      "1800624449",
+      "3 9212 1942   8",
+      "800 222 9467",
+      "(0)801128000   9",
+      "400 820 3800",
+      "800 026 0329",
+      "(0)80058121   9",
+      "1 877 678 8032   9",
+      "0800 800 004   8",
+      "000 4054 083   9",
+      "0800 761 7454   9",
+      "(0)800 8088014   9",
+      "(0)800 0205934   9",
+      "(0)8 75 10 980   9",
+      "800 20 91 75   9",
+      "1800 1013659   8",
+      "0 8000 123 345   9",
+      "(800) 642 7676   8",
+      "400 820 3800   9",
+      "0800 662 006   9",
+      "855 270 0615   8",
+      "800 761 7454",
+      "(0)800 026 0329   9",
+      "800 0205934",
+      "0800 16 73 44   9",
+      "305 418 9143",
+      "800 000 024   9",
+      "0850 390 2777   9",
+      "(800) 642 7676",
+      "850 390 2777"
+    ],
+    "extraction_level": "advanced",
+    "social_media": {},
+    "address": "6              \n\n\n\n\n\n\n\nSkip to main content\n\n\n\n\n\n\n\nMicrosoft\n\n\n\nAzure\n\n\n\n\nAzure\n\n\n\n\n                            Azure\n                        \n\n\n\n\n Home \n\n\nExpl",
+    "description": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
+    "year_founded": null,
+    "industry": "Technology",
+    "services": [
+      "View all products (200+)"
+    ],
+    "tech_stack": {
+      "java": [
+        "spring"
+      ],
+      "css": [
+        "less"
+      ],
+      "databases": [
+        "postgresql",
+        "redis"
+      ],
+      "cloud": [
+        "azure"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "leader",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://www.digitalocean.com",
+    "company_name": "DigitalOcean",
+    "website_url": "https://www.digitalocean.com",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/company/digitalocean/",
+      "twitter": "https://twitter.com/digitalocean",
+      "facebook": "https://www.facebook.com/DigitalOceanCloudHosting",
+      "instagram": "https://www.instagram.com/thedigitalocean/"
+    },
+    "address": "200 in credit for your first",
+    "description": "An ocean of simple, scalable cloud solutions.",
+    "year_founded": null,
+    "industry": "Education",
+    "services": [],
+    "tech_stack": {
+      "javascript": [
+        "node.js",
+        "js"
+      ],
+      "php": [
+        "wordpress"
+      ],
+      "ruby": [
+        "rails"
+      ],
+      "css": [
+        "less",
+        "css"
+      ],
+      "databases": [
+        "mysql",
+        "postgresql",
+        "mongodb"
+      ],
+      "cloud": [
+        "aws",
+        "gcp"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [
+      "aws",
+      "like",
+      "and",
+      "and"
+    ],
+    "market_position": "leader",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://startupsavant.com/startups-to-watch/silicon-valley",
+    "company_name": "28 Top Silicon Valley Startups 2025",
+    "website_url": "https://startupsavant.com/startups-to-watch/silicon-valley",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/company/startup-savant",
+      "facebook": "https://www.facebook.com/startupsavant",
+      "instagram": "https://www.instagram.com/startupsavant/"
+    },
+    "address": "28 Top Silicon Valley St",
+    "description": "Get introduced to the founders, investors, and funding amounts of the top Silicon Valley startups in 2025 so you can carve your own path to glory.",
+    "year_founded": 2024,
+    "industry": "Technology",
+    "services": [
+      "Artificial Intelligence"
+    ],
+    "tech_stack": {
+      "java": [
+        "spring"
+      ],
+      "css": [
+        "less"
+      ],
+      "frontend_frameworks": [
+        "jquery",
+        "jquery"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "leader",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://livefromsiliconvalley.com/top-5-breakthrough-cloud-computing-startups-in-silicon-valley/",
+    "company_name": "Top 5 Breakthrough Cloud Computing Startups in Silicon Valley - LIVE FROM SILICON VALLEY",
+    "website_url": "https://livefromsiliconvalley.com/top-5-breakthrough-cloud-computing-startups-in-silicon-valley/",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {},
+    "address": "5 Breakthrough Cloud Computing St",
+    "description": "Discover the top 5 breakthrough cloud computing startups in Silicon Valley revolutionizing the tech industry with innovative solutions and cutting-edge technology.",
+    "year_founded": 2012,
+    "industry": "Technology",
+    "services": [
+      "Tech Innovations & Startups",
+      "Entrepreneurship & Venture Capital",
+      "Tech Culture & Lifestyle"
+    ],
+    "tech_stack": {
+      "css": [
+        "less"
+      ],
+      "cloud": [
+        "aws",
+        "azure"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "challenger",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://www.seedtable.com/best-cloud-computing-startups",
+    "company_name": "Explore 69 Best Cloud Computing Startups to watch in 2025. Discover innovative companies, funding insights, and industry trends.",
+    "website_url": "https://www.seedtable.com/best-cloud-computing-startups",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {},
+    "address": "69 Best Cloud Computing St",
+    "description": "The Definitive Seedtable Ranking of Cloud Computing Startups",
+    "year_founded": 1985,
+    "industry": "Technology",
+    "services": [],
+    "tech_stack": {
+      "javascript": [
+        "js"
+      ],
+      "ruby": [
+        "rails"
+      ],
+      "css": [
+        "less"
+      ],
+      "databases": [
+        "mysql"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "challenger",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "url": "https://aws.amazon.com",
+    "company_name": "Cloud Computing Services - Amazon Web Services (AWS)",
+    "website_url": "https://aws.amazon.com",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/company/amazon-web-services/",
+      "twitter": "https://twitter.com/awscloud",
+      "facebook": "https://www.facebook.com/amazonwebservices",
+      "instagram": "https://www.instagram.com/amazonwebservices/"
+    },
+    "address": "1 fans\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\n\n\n\n\n\n\n\n\nWatch the AWS Summit keynote livest",
+    "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+    "year_founded": 2006,
+    "industry": "Technology",
+    "services": [],
+    "tech_stack": {
+      "javascript": [
+        "javascript"
+      ],
+      "python": [
+        "python"
+      ],
+      "java": [
+        "java"
+      ],
+      "php": [
+        "php"
+      ],
+      "css": [
+        "less"
+      ],
+      "cloud": [
+        "aws"
+      ],
+      "frontend_frameworks": [
+        "react"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "leader",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://www.anthropic.com",
+    "company_name": "Home \\ Anthropic",
+    "website_url": "https://www.anthropic.com",
+    "email": [],
+    "phone": [
+      "1-100101-5005",
+      "1-5051-100101-500501-1"
+    ],
+    "extraction_level": "advanced",
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/company/anthropicresearch"
+    },
+    "address": "42001 certificationLearnLearning resourcesCustomer st",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "year_founded": 2024,
+    "industry": "Education",
+    "services": [],
+    "tech_stack": {
+      "css": [
+        "less"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "startup",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://stripe.com",
+    "company_name": "Stripe",
+    "website_url": "https://stripe.com",
+    "email": [
+      "navodita.grawal@example.com",
+      "sales@stripe.com",
+      "navin.grawal@example.com"
+    ],
+    "phone": [
+      "9812647081",
+      "+91) 9812647081",
+      "1234 1234 1234 1234"
+    ],
+    "extraction_level": "advanced",
+    "social_media": {},
+    "address": "00\n\n\n\nYesterd",
+    "description": "Stripe is a suite of APIs powering online payment processing and commerce solutions for internet businesses of all sizes. Accept payments and scale faster with AI.",
+    "year_founded": null,
+    "industry": "Technology",
+    "services": [],
+    "tech_stack": {
+      "javascript": [
+        "react",
+        "js"
+      ],
+      "php": [
+        "php"
+      ],
+      "ruby": [
+        "rails"
+      ],
+      "css": [
+        "less"
+      ],
+      "analytics": [
+        "amplitude"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "startup",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://square.com",
+    "company_name": "Power your entire business",
+    "website_url": "https://square.com",
+    "email": [
+      "example@yourdomain.com"
+    ],
+    "phone": [
+      "1 (800) 470-1673",
+      "1 (855) 700-6000",
+      "503-555-1212"
+    ],
+    "extraction_level": "advanced",
+    "social_media": {
+      "twitter": "https://twitter.com/Square",
+      "facebook": "https://www.facebook.com/square",
+      "instagram": "https://instagram.com/square"
+    },
+    "address": "44 Aust",
+    "description": "Sell anywhere. Diversify revenue streams. Streamline operations. Manage your staff. Get paid faster. Sign up for Square today.",
+    "year_founded": null,
+    "industry": "Software",
+    "services": [],
+    "tech_stack": {
+      "css": [
+        "less"
+      ],
+      "databases": [
+        "redis"
+      ],
+      "frontend_frameworks": [
+        "jquery"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "startup",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://slack.com",
+    "company_name": "AI work management and productivity tools",
+    "website_url": "https://slack.com",
+    "email": [],
+    "phone": [
+      "1 - 1516 - 100101 - 500501 - 10001001"
+    ],
+    "extraction_level": "advanced",
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/company/tiny-spec-inc/",
+      "twitter": "https://twitter.com/slackhq",
+      "facebook": "https://facebook.com/slackhq",
+      "instagram": "https://www.instagram.com/slackhq/"
+    },
+    "address": "100 use Slack Connect to work with partners and cust",
+    "description": "Slack is where work happens. Bring your people, projects, tools and AI together on the world’s most beloved work operating system.",
+    "year_founded": null,
+    "industry": "Technology",
+    "services": [
+      "ChannelsOrganise teams and work"
+    ],
+    "tech_stack": {
+      "css": [
+        "less"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [
+      "emailaccessibilitysolutionsby",
+      "emailaccessibilitysolutionsby",
+      "freeaccessibilityfeatured",
+      "emailenterprisesmall"
+    ],
+    "market_position": "leader",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  },
+  {
+    "url": "https://zoom.us",
+    "company_name": "One platform to connect",
+    "website_url": "https://zoom.us",
+    "email": [],
+    "phone": [],
+    "extraction_level": "advanced",
+    "social_media": {},
+    "address": "",
+    "description": "Modernize workflows with Zoom's trusted collaboration tools: including video meetings, team chat, VoIP phone, webinars, whiteboard, contact center, and events.",
+    "year_founded": null,
+    "industry": "Platform",
+    "services": [],
+    "tech_stack": {
+      "frontend_frameworks": [
+        "react"
+      ]
+    },
+    "current_projects": [],
+    "competitors": [],
+    "market_position": "",
+    "company_size": "",
+    "funding_info": "",
+    "news_mentions": []
+  }
+]
